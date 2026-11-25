@@ -35,6 +35,11 @@ Thumbs.db
 *.key
 *.pem
 
+# Configuración con credenciales sensibles (crear localmente)
+backend/src/main/resources/application.properties
+backend/src/main/resources/application-mysql.properties
+docker-compose.yml
+
 # Backup / temp
 *.bak
 *.tmp
