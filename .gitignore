@@ -1,0 +1,41 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.classpath
+.project
+.settings/
+dependency-reduced-pom.xml
+build/
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# Backup / temp
+*.bak
+*.tmp
+temp/
