@@ -1,4 +1,4 @@
-# 🏎️ AutoElite Motors - Tienda & Catálogo de Vehículos (Full-Stack)
+#  AutoElite Motors - Tienda & Catálogo de Vehículos (Full-Stack)
 
 Sistema web completo para tienda de vehículos con catálogo interactivo, autenticación mediante tokens JWT y panel administrativo con operaciones CRUD completas.
 
